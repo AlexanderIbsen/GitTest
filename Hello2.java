@@ -5,5 +5,6 @@ public class Hello2 {
 		System.out.println("Hello Wolrd!"); // first line 
 		System.out.println("How are you?"); // another line
 		System.out.println("How are you today?"); // another line
+		System.out.println("How are you today goat?"); // another line
 	}
 }
