@@ -1,1 +1,9 @@
-System.out.println("gedsås");
+public class gedesås {
+	
+	public static void main (String[] args){
+		//generate some simple output
+		System.out.println("gedsås");
+	}
+}
+
+
